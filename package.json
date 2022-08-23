@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"Creating our server\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoTaetae/Server.git"
+  },
+  "author": "\"Komal Gupta\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoTaetae/Server/issues"
+  },
+  "homepage": "https://github.com/KoTaetae/Server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
